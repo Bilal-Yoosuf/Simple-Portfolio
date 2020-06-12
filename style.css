@@ -123,7 +123,6 @@ a {
     height: 150px;
 }
 .skills{
-    height: 100vh;
     overflow: hidden;
 }
 .skill-row{
@@ -223,6 +222,10 @@ a {
      .big-img{
          margin-top: 100px;
      }
+     .top-container{
+         height: 80vh;
+     }
+
      /* .code-img,.gym-img{
         float: none;
     } */

@@ -222,6 +222,10 @@ a {
      .big-img{
          margin-top: 200px;
      }
+     .top-container{
+         height: 100vh;
+     }
+     
     
 
      /* .code-img,.gym-img{

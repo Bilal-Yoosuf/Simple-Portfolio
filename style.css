@@ -220,11 +220,9 @@ a {
          width: 60%;
      }
      .big-img{
-         margin-top: 100px;
+         margin-top: 200px;
      }
-     .top-container{
-         height: 80vh;
-     }
+    
 
      /* .code-img,.gym-img{
         float: none;

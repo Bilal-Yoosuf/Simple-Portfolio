@@ -217,6 +217,12 @@ a {
      html{
          font-size: 13px;
      }
+     .skill-row{
+         width: 60%;
+     }
+     .big-img{
+         margin-top: 100px;
+     }
      /* .code-img,.gym-img{
         float: none;
     } */
@@ -236,6 +242,9 @@ a {
          font-size: 2rem;
      }
      .contact-me{
+         width: 70%;
+     }
+     .skill-row{
          width: 70%;
      }
     
